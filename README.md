@@ -2,9 +2,6 @@
 
 **Открыть:** https://ЛОГИН.github.io/kcd2-rp-crafting/
 
-Доработанная версия проекта [danekkuznec/kcd2-rp-crafting](https://github.com/danekkuznec/kcd2-rp-crafting).
-Автор исходного приложения — **danekkuznec**, оригинал: https://danekkuznec.github.io/kcd2-rp-crafting/
-
 Что изменено в этой версии:
 - цены сырья собраны в один блок без повторов, редкое сырьё — в раскрывающемся разделе «Редкое сырьё»;
 - выровнены поля цен и склада;
