@@ -1,6 +1,6 @@
 # Счётная книга кузни (KCD2 RP)
 
-**Открыть:** https://ЛОГИН.github.io/kcd2-rp-crafting/
+**Открыть:** [https://ЛОГИН.github.io/kcd2-rp-crafting/](https://github.com/bodikst/nooqanaka/blob/main/README.md)
 
 Что изменено в этой версии:
 - цены сырья собраны в один блок без повторов, редкое сырьё — в раскрывающемся разделе «Редкое сырьё»;
